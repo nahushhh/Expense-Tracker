@@ -1,5 +1,9 @@
 # Expense Tracker
 
+## Run the project
+
+Go to the backend folder and run the command `npm start`. Then go to the frontend folder and run the command `npm start`. The project will run on localhost:3000.
+
 ## Dashboard
 
 ![image](https://github.com/user-attachments/assets/bf1fbfcd-b705-4c31-872b-c8a514b07b28)
